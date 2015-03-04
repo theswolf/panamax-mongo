@@ -1,0 +1,10 @@
+---
+name: Mongo template from panamax
+description: ''
+keywords: ''
+type: Default
+documentation: ''
+images:
+- name: dockerfile_mongodb_latest
+  source: dockerfile/mongodb:latest
+  type: Default
