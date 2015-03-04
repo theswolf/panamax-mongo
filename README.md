@@ -1,0 +1,2 @@
+# panamax-mongo
+mongo panamax
